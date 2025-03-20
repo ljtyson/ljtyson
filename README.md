@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on improving business processes through analysis, redesign, and optimization
-- 🌱 I’m currently learning Qlik
+- 🌱 I’m currently learning Qlik https://www.credly.com/badges/45fac449-c711-4c58-b2a4-5b673369f07b/public_url
