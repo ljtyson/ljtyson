@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on improving business processes through analysis, redesign, and optimization
-- 🌱 I’m currently learning Qlik ![readysetgo](https://github.com/user-attachments/assets/e62961b8-ae49-4cb3-8946-5a8af23b8760)
+- 🌱 I’m currently learning Qlik
+- ![readysetgo](https://github.com/user-attachments/assets/e62961b8-ae49-4cb3-8946-5a8af23b8760)
 
